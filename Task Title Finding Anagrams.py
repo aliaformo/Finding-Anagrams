@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 # Check if two words are anagrams 
 # Example:
 # find_anagrams("hello", "check") --> False
